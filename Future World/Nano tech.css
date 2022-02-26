@@ -1,0 +1,24 @@
+img{
+	max-width: 8s00px;
+	margin-left: 50px;
+}
+p{
+	margin-right: 300px;
+	font-size: 28px;
+	font-family: cursive;
+}
+h1{
+	font-size: 38px;
+	font-family: cursive;
+}
+h2{
+	margin-right: 300px;
+	font-size: 48px;
+	font-family: cursive;
+}
+body{
+	background: #dedede;
+	font-family: arial;
+	margin: 50px;
+	padding: 0;
+}
